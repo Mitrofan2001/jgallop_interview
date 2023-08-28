@@ -1,6 +1,13 @@
 .bg__whyfun{
     background-image:url("./images/index/whyfun.jpg");
-    background-position: center 22%;
+    background-position: center 13%;
     background-repeat: no-repeat;
-    background-size:1200px;
+    background-size:1600px;
 }
+
+@media screen and (min-width: 892.5px) {
+    .LastSecond{
+        text-shadow: rgb(0, 0, 0) 1px 1px 4px;
+    }
+}
+
